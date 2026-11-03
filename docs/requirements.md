@@ -346,7 +346,7 @@ Inventory accuracy is one of the project's primary objectives.
 | ------ | ----------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | FR-107 | The system shall track stock in lots. Each lot has a quantity, a unit, a received date and, where applicable, an expiry date. | Must have   |
 | FR-009 | The system shall maintain a central inventory of food products.                                                               | Must have   |
-| FR-010 | Each product shall have a name, category, quantity and unit of measurement.                                                   | Must have   |
+| FR-010 | Each product shall have a name and a category. Quantity and unit are held by its lots (see FR-107).                           | Must have   |
 | FR-011 | The system shall support different units, including kilograms, grams, individual items, boxes, crates and bags.               | Must have   |
 | FR-012 | The system shall record stock received from donations.                                                                        | Must have   |
 | FR-013 | The system shall record stock removed for package preparation.                                                                | Must have   |
