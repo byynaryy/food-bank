@@ -277,7 +277,8 @@ The stakeholder interviews identified several areas where people have different 
 | Family allocation            | Will Nadia formally approve Léa's flexible bag-allocation decisions?                                           |
 | Monthly reporting            | Does the grocery store require a signed donation receipt or a particular reporting format?                     |
 | Offline operation            | Should the system support offline digital recording, paper backups, or both?                                   |
-| package for large households | Which package does a household of 6 or more receive, and how does BR-003 (babies) combine with household size? |
+| Package for large households | Which package does a household of 6 or more receive, and how does BR-003 (babies) combine with household size? |
+| Limited technical skills     | How will volunteers with limited technical skills log in (personal code, shared tablet, other)?                |
 
 ### 4.7 Decision log
 
@@ -472,14 +473,15 @@ Inventory accuracy is one of the project's primary objectives.
 
 ### 5.11 User roles and permissions
 
-| ID     | Requirement                                                                                 | Priority  |
-| ------ | ------------------------------------------------------------------------------------------- | --------- |
-| FR-101 | The system shall support different user roles.                                              | Must have |
-| FR-102 | The system shall restrict access according to assigned permissions.                         | Must have |
-| FR-103 | The system shall allow Nadia to manage user permissions.                                    | Must have |
-| FR-104 | The system shall restrict access to sensitive family information.                           | Must have |
-| FR-105 | The system shall record important changes made by users.                                    | Must have |
-| FR-106 | The system shall allow authorised backup volunteers to perform designated responsibilities. | Must have |
+| ID     | Requirement                                                                                                            | Priority  |
+| ------ | ---------------------------------------------------------------------------------------------------------------------- | --------- |
+| FR-101 | The system shall support different user roles.                                                                         | Must have |
+| FR-102 | The system shall restrict access according to assigned permissions.                                                    | Must have |
+| FR-103 | The system shall allow Nadia to manage user permissions.                                                               | Must have |
+| FR-104 | The system shall restrict access to sensitive family information.                                                      | Must have |
+| FR-105 | The system shall record important changes made by users.                                                               | Must have |
+| FR-106 | The system shall allow authorised backup volunteers to perform designated responsibilities.                            | Must have |
+| FR-108 | The system shall require each user to identify themselves before accessing any function other than public information. | Must have |
 
 ---
 
