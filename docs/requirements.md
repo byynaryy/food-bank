@@ -1,10 +1,14 @@
 # Food Bank Management System — Requirements Specification
 
-**Version:** 0.2 (second draft) · **Status:** Draft, pending stakeholder validation
+**Version:** 0.2.1 (second draft) · **Status:** Draft, pending stakeholder validation
 
 ## Changelog
 
-### v0.2 (2026-11-03)
+### v0.2.1 (2026-11-03)
+
+- Fixed FR-095: restored the withdrawal notice (the text had been left blank).
+- Amended FR-010: quantity and unit are now held by lots (see FR-107).
+- Clarified FR-108: removed the undefined term "public information".
 
 - Added FR-107: stock tracked in lots with expiry dates; amended FR-021.
 - Withdrew FR-095 (duplicate of FR-035).
@@ -725,4 +729,4 @@ The project should be considered successful when:
 
 ---
 
-_End of document — Version 0.2_
+_End of document — Version 0.2.1_
