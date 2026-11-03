@@ -486,15 +486,15 @@ Inventory accuracy is one of the project's primary objectives.
 
 ### 5.11 User roles and permissions
 
-| ID     | Requirement                                                                                                            | Priority  |
-| ------ | ---------------------------------------------------------------------------------------------------------------------- | --------- |
-| FR-101 | The system shall support different user roles.                                                                         | Must have |
-| FR-102 | The system shall restrict access according to assigned permissions.                                                    | Must have |
-| FR-103 | The system shall allow Nadia to manage user permissions.                                                               | Must have |
-| FR-104 | The system shall restrict access to sensitive family information.                                                      | Must have |
-| FR-105 | The system shall record important changes made by users.                                                               | Must have |
-| FR-106 | The system shall allow authorised backup volunteers to perform designated responsibilities.                            | Must have |
-| FR-108 | The system shall require each user to identify themselves before accessing any function other than public information. | Must have |
+| ID     | Requirement                                                                                      | Priority  |
+| ------ | ------------------------------------------------------------------------------------------------ | --------- |
+| FR-101 | The system shall support different user roles.                                                   | Must have |
+| FR-102 | The system shall restrict access according to assigned permissions.                              | Must have |
+| FR-103 | The system shall allow Nadia to manage user permissions.                                         | Must have |
+| FR-104 | The system shall restrict access to sensitive family information.                                | Must have |
+| FR-105 | The system shall record important changes made by users.                                         | Must have |
+| FR-106 | The system shall allow authorised backup volunteers to perform designated responsibilities.      | Must have |
+| FR-108 | The system shall require each user to identify themselves before accessing any function or data. | Must have |
 
 ---
 
@@ -725,4 +725,4 @@ The project should be considered successful when:
 
 ---
 
-_End of first draft — Version 0.2_
+_End of document — Version 0.2_
