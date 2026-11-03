@@ -1,6 +1,19 @@
 # Food Bank Management System — Requirements Specification
 
-**Version:** 0.1 (first draft) · **Status:** Draft, pending stakeholder validation
+**Version:** 0.2 (second draft) · **Status:** Draft, pending stakeholder validation
+
+## Changelog
+
+### v0.2 (2026-11-03)
+
+- Added FR-107: stock tracked in lots with expiry dates; amended FR-021.
+- Withdrew FR-095 (duplicate of FR-035).
+- Added open question on packages for households of 6 or more (section 4.6).
+- Added FR-108: user authentication, with an open question on login method (section 4.6).
+
+### v0.1
+
+- Initial draft.
 
 ---
 
@@ -712,4 +725,4 @@ The project should be considered successful when:
 
 ---
 
-_End of first draft — Version 0.1_
+_End of first draft — Version 0.2_
