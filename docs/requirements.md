@@ -4,11 +4,20 @@
 
 ## Changelog
 
+### v0.2.2 (2026-11-03)
+
+- Corrected the changelog: v0.2 changes were listed under v0.2.1.
+- Added "Withdrawn" to the priority definitions in section 5.
+
 ### v0.2.1 (2026-11-03)
 
 - Fixed FR-095: restored the withdrawal notice (the text had been left blank).
 - Amended FR-010: quantity and unit are now held by lots (see FR-107).
 - Clarified FR-108: removed the undefined term "public information".
+- Corrected the end-of-document marker.
+- Added "Withdrawn" to the priority definitions.
+
+### v0.2 (2026-11-03)
 
 - Added FR-107: stock tracked in lots with expiry dates; amended FR-021.
 - Withdrew FR-095 (duplicate of FR-035).
@@ -326,6 +335,7 @@ The following requirements describe what the proposed system should do. Each req
 - **Must have** — Essential for the initial system to operate successfully.
 - **Should have** — Important, but could be implemented after the core functionality.
 - **Could have** — Useful improvement that is not essential initially.
+- **Withdrawn** — Requirement removed. Its ID is kept and never reused.
 
 ### 5.1 Dashboard and overview
 
