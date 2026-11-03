@@ -265,18 +265,19 @@ The stakeholder interviews identified several areas where people have different 
 
 ### 4.6 Additional unresolved issues
 
-| Issue                 | Question requiring resolution                                                              |
-| --------------------- | ------------------------------------------------------------------------------------------ |
-| Receiving volunteers  | Who are the two or three authorised receiving volunteers?                                  |
-| Tuesday receiving     | Who receives donations if Tuesday collections resume?                                      |
-| Donation capacity     | How will acceptable storage limits be established?                                         |
-| Donation alternatives | Can surplus food be redirected to another charity or organisation?                         |
-| Stock corrections     | Who can approve significant inventory corrections?                                         |
-| Free table            | Who records food brought out from storage?                                                 |
-| Closing checks        | Who enters Saturday's closing figures into the system?                                     |
-| Family allocation     | Will Nadia formally approve Léa's flexible bag-allocation decisions?                       |
-| Monthly reporting     | Does the grocery store require a signed donation receipt or a particular reporting format? |
-| Offline operation     | Should the system support offline digital recording, paper backups, or both?               |
+| Issue                        | Question requiring resolution                                                                                  |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Receiving volunteers         | Who are the two or three authorised receiving volunteers?                                                      |
+| Tuesday receiving            | Who receives donations if Tuesday collections resume?                                                          |
+| Donation capacity            | How will acceptable storage limits be established?                                                             |
+| Donation alternatives        | Can surplus food be redirected to another charity or organisation?                                             |
+| Stock corrections            | Who can approve significant inventory corrections?                                                             |
+| Free table                   | Who records food brought out from storage?                                                                     |
+| Closing checks               | Who enters Saturday's closing figures into the system?                                                         |
+| Family allocation            | Will Nadia formally approve Léa's flexible bag-allocation decisions?                                           |
+| Monthly reporting            | Does the grocery store require a signed donation receipt or a particular reporting format?                     |
+| Offline operation            | Should the system support offline digital recording, paper backups, or both?                                   |
+| package for large households | Which package does a household of 6 or more receive, and how does BR-003 (babies) combine with household size? |
 
 ### 4.7 Decision log
 
@@ -543,23 +544,23 @@ The following is an **initial permissions model**. It needs approval from Nadia.
 
 These rules describe how the food bank currently operates or how it intends to operate. **Some are provisional and require confirmation.**
 
-| ID     | Business rule                                                                                     |
-| ------ | ------------------------------------------------------------------------------------------------- |
-| BR-001 | Families with one or two household members generally receive small packages.                      |
-| BR-002 | Families with three to five household members generally receive large packages.                   |
-| BR-003 | Families with babies may receive baby packages.                                                   |
-| BR-004 | Baby formula must not be substituted with a different type without an approved procedure.         |
-| BR-005 | Package substitutions must be recorded using the actual replacement product.                      |
-| BR-006 | Food must not be accepted if it cannot be transported or stored safely.                           |
-| BR-007 | Donation rejection decisions must follow rules approved by Nadia.                                 |
-| BR-008 | Significant stock corrections must include an explanation.                                        |
-| BR-009 | Food disposal requires Nadia's approval or an agreed delegated procedure.                         |
-| BR-010 | Family attendance must be recorded when groceries are collected.                                  |
-| BR-011 | A family should not accidentally receive duplicate packages during the same distribution session. |
-| BR-012 | Uncollected packages must be checked before their contents are returned to stock.                 |
-| BR-013 | Allergies must be distinguished from religious restrictions and personal preferences.             |
-| BR-014 | Family information must only be accessible to authorised volunteers.                              |
-| BR-015 | Actual package contents must be recorded when substitutions occur.                                |
+| ID     | Business rule                                                                                                          |
+| ------ | ---------------------------------------------------------------------------------------------------------------------- |
+| BR-001 | Families with one or two household members generally receive small packages. **Note:** Incomplete: see section 4.6.    |
+| BR-002 | Families with three to five household members generally receive large packages. **Note:** Incomplete: see section 4.6. |
+| BR-003 | Families with babies may receive baby packages.                                                                        |
+| BR-004 | Baby formula must not be substituted with a different type without an approved procedure.                              |
+| BR-005 | Package substitutions must be recorded using the actual replacement product.                                           |
+| BR-006 | Food must not be accepted if it cannot be transported or stored safely.                                                |
+| BR-007 | Donation rejection decisions must follow rules approved by Nadia.                                                      |
+| BR-008 | Significant stock corrections must include an explanation.                                                             |
+| BR-009 | Food disposal requires Nadia's approval or an agreed delegated procedure.                                              |
+| BR-010 | Family attendance must be recorded when groceries are collected.                                                       |
+| BR-011 | A family should not accidentally receive duplicate packages during the same distribution session.                      |
+| BR-012 | Uncollected packages must be checked before their contents are returned to stock.                                      |
+| BR-013 | Allergies must be distinguished from religious restrictions and personal preferences.                                  |
+| BR-014 | Family information must only be accessible to authorised volunteers.                                                   |
+| BR-015 | Actual package contents must be recorded when substitutions occur.                                                     |
 
 ---
 
