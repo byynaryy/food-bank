@@ -477,7 +477,7 @@ Inventory accuracy is one of the project's primary objectives.
 | ID     | Requirement                                                                   | Priority    |
 | ------ | ----------------------------------------------------------------------------- | ----------- |
 | FR-094 | The system shall generate inventory reports.                                  | Must have   |
-| FR-095 |                                                                               | Must have   |
+| FR-095 | Withdrawn: duplicate of FR-035.                                               | Withdrawn   |
 | FR-096 | The system shall report the number of families served.                        | Must have   |
 | FR-097 | The system shall report packages prepared, distributed and uncollected.       | Must have   |
 | FR-098 | The system shall report discarded and expired food.                           | Must have   |
